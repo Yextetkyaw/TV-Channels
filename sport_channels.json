@@ -63,7 +63,7 @@
   { "title": "Sport 1 Baltic", "url": "http://stream.mcquack.net/461/index.m3u8" },
   { "title": "Sport 2 Ukraine", "url": "http://stream.mcquack.net/392/index.m3u8" },
   { "title": "Sport 4 Ukraine", "url": "http://stream.mcquack.net/394/index.m3u8" },
-  { "title": "Sport 5", url: "http://stream.mcquack.net/212/index.m3u8" },
+  { "title": "Sport 5", "url": "http://stream.mcquack.net/212/index.m3u8" },
   { "title": "SportsGrid", "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8" },
   { "title": "Stadium", "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8" },
   { "title": "Strongman", "url": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8" },
